@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+More on my [home page](https://phramusca.github.io/).
 <!--
 **phramusca/phramusca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
